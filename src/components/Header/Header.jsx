@@ -126,7 +126,7 @@ export default function Header() {
           {/* <Link to="/masterclass" className="text-gray-300 hover:text-white">
             MasterClass
           </Link> */}
-          <a
+          {/* <a
             href="https://forms.gle/8bw14fUtYXmiBr616"
             target="_blank"
             download
@@ -135,7 +135,7 @@ export default function Header() {
             <button className="bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700">
               PPT submission
             </button>
-          </a>
+          </a> */}
           <a
             href={pptTemplate}
             download
