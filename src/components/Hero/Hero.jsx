@@ -105,11 +105,11 @@ export default function Hero() {
         </div>
 
         <div className="flex xs:flex-col  xm:flex-row  flex-nowrap justify-center gap-4">
-          {/* <Link to="/registration">
+          <Link to="/registration">
             <button className=" w-full xs:w-full sm:w-auto text-white  bg-gradient-to-r from-cyan-400 via-cyan-500 to-cyan-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 shadow-lg shadow-cyan-500/50 dark:shadow-lg dark:shadow-cyan-800/80 font-medium rounded-lg px-4 py-3 inline-flex items-center justify-center gap-2 whitespace-nowrap">
               Register Now
             </button>
-          </Link> */}
+          </Link> 
 
           <Link
             to="/problemstatement" 
